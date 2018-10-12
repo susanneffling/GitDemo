@@ -1,0 +1,7 @@
+{
+  "name": "GitDemo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
